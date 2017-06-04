@@ -1,7 +1,7 @@
 # EmojiAliases #
 
 This is an extension for the String class in Swift to convert emoji alias codes,
-such as :heart_eyes: into an Unicode emoji characters, such as 😍.
+such as `:heart_eyes:` into an Unicode emoji characters, such as 😍.
 
 ## Installation ##
 
