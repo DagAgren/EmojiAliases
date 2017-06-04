@@ -20,7 +20,7 @@ file.
 
 Dag Ågren ([paracelsus@gmail.com](mailto:paracelsus@gmail.com),
 [@WAHa_06x36](https://twitter.com/WAHa_06x36),
-[@WAHa_06x36@mastodon.social](https://mastodon.social/@WAHa_06x36)
+[@WAHa_06x36@mastodon.social](https://mastodon.social/@WAHa_06x36),
 [wakaba.c3.cx](http://wakaba.c3.cx/))
 
 ## License ##
