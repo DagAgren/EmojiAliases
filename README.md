@@ -16,6 +16,12 @@ file.
     let converted = string.replacingEmojiAliases
     print(converted)
 
+## Data source ##
+
+The emoji code data comes from the EmojiOne project:
+
+https://github.com/emojione/emojione/tree/master/extras/alpha-codes
+
 ## Author ##
 
 Dag Ågren ([paracelsus@gmail.com](mailto:paracelsus@gmail.com),
